@@ -1,0 +1,21 @@
+{
+  "rendered_at": "2026-10-08T03:40:57.675233Z",
+  "generator": "intelliw 0.1.0",
+  "design": {
+    "name": "clinic-pro",
+    "title": "Clinic Pro"
+  },
+  "businessdata": {
+    "version_name": "active",
+    "version": null,
+    "snapshot": null,
+    "based_on": {
+      "number": 1,
+      "tag": null,
+      "created_at": "2026-10-08T03:38:08.088265Z"
+    },
+    "modified": false,
+    "updated_at": "2026-10-08T03:38:07.873703Z"
+  },
+  "include_hidden": false
+}
