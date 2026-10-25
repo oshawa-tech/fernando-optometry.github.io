@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "Makefile",
+      "**/.*",
+      "**/.*/**",
+      "**/node_modules/**",
+      "render.json",
+      "firebase-debug.log"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": true
+  }
+}
